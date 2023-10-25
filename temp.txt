@@ -1,0 +1,251 @@
+books 
+
+
+B123456#The mouse and the motorcycle#Beverly Cleary#10.5
+B234587#Charlotte’s Web#Elwyn Brooks White#15
+B354759#Matilda#Roald Dahl#15
+B654190#Harry Potter and the prisoner of Azkaban#Joanne Rowling#25
+B58256#James and the giant peach#Roald Dahl#13
+B246511#The witches#Roald Dahl#22
+B998135#Pipi Longstocking#Astrid Lindgren#8.75
+B100952#The battle of the labyrinth#Rick Riordan#25
+B429525#Circumcise Proximal Writeup#Rosaisela Triana#5.61
+B686838#Bosom#Sundae Tyton#6.69
+B758522#Onomatopoeia#Matin Natalyn#8.93
+B555744#Through Aware Sent Gopher#Sushant Abagale#13.81
+B633941#Locomotor Sheepherder Ida#Darek Jay#10.05
+B798918#Mulligan Patterson#Radha Vaughn#4.84
+B379311#Cybernetic Solon Fibration#Dashawna Tustin#9.98
+B128423#Kickback#Katherin Shannan#6.88
+B551196#Portray#Nathanael Darion#6.68
+B200123#Midge Marsha Bloomfield#Ricco Allyzon#11.4
+B525350#Sagittal Sturbridge#Marlin Jennifer#18.54
+B819335#Hairdo Crucial Friable#Delon Aarron#3.14
+B895447#Bagpipe Salesmen Apocalyptic Rabid#Hussain Arlen#12.61
+B668168#Chit Coriolanus Pinnacle#Anastasios Darryon#16.76
+B127104#Lyman Inharmonious Tale#Kodi Abreanna#18.94
+B105134#Poplin Conferred Jackal#Nosson Rigden#18.88
+B788179#Emery#Kaysa Jezabelle#4.16
+B843180#Eire Hutchison Pelagic#Dariyon Reality#17.65
+B171174#Robertson Cowardice#Breannah Kristine#19.81
+B493026#Thence#Alaiyah Joey#11.08
+B188092#Honey Millennium#Benicia Abhijay#16.69
+B232688#Duration Ruinous Stimulate#Alissa Darrielle#8.25
+B646138#Kansas Polynomial Dogging#Akiva Glendon#13.37
+B760529#Auspices Hydrofluoric Terrestrial#Fredis Meleena#5.11
+B365181#Oxygen Deferred#Iwalani Caira#6.65
+B242243#Morsel Clang#Roderick Rosamaria#13.17
+B535168#Claudia Counteract Leadeth#Jalliyah Imad#14.67
+B544964#Faber Woodard Bronchial Mouse#Chenoa Makaylyn#4.48
+B393972#Bedspread Pornographer Heavyweight Background#Bennet Sartaj#13.93
+B525901#Ogden Greylag#Julieta Kinslie#18.83
+B705808#Buttery Trickle Mellon#Rhilee Kiyana#17.51
+B591579#Parachute Meson Strangle#Cyncere Elyan#1.06
+B761927#Staunch Insatiable#Matti Seriah#12.23
+B418696#Lundberg Postorder#Austynn Kessiah#16.71
+B144082#Baseline Sybarite Barnet Sprue#Kaely Janyiah#9.76
+B293326#Clung Monogamous Fasten#Darbie Eydan#5.36
+B677304#Alcoholic Salem Asparagine#Baleria Zandon#16.14
+B645003#Carrageen Psychoanalytic Nate Paraphrase#Caedyn Keiland#11.95
+B908854#Phenyl Quadrillion#Addasyn Leonitus#17.02
+B972561#Globular Revisable Adelaide Lighthearted#Nader Camylle#5.09
+B851070#Contravariant Summer Heresy Sentient#Riot Sanne#9.84
+B251900#Mountain Hobby#Zacary Teyla#17.55
+B856309#Nautical#Olaoluwa Elazar#3.78
+B448009#Asher#Liam Avin#11.21
+B226802#Booty Scrutable Soiree Amongst#Tavarian Callista#8.93
+B863723#Rummage Sarasota Amiss Lonesome#Mihailo Hamed#1.37
+B696440#Bordello Impracticable#Tayvion Orla#3.89
+B600462#Tum Ketosis Anthropology Gallon#Sepehr Nyima#8.98
+B945112#Birdcage#Sanjna Syrie#4.13
+B856525#Polaris#Abdiasis Puneet#14.6
+B331651#Cheesemaking#Avneet Lorenza#8.22
+B248436#Cern#Dekota Shira#14.09
+B783821#Sabotage Stratagem Proxy Amsterdam#Krystiana Lailana#7.26
+B905788#Hose Wind Apostrophe#Gad Dynasti#15.98
+B259135#Freedmen Indignant Asteroidal Fork#Yarixa Elese#4.67
+B649270#Corbett Adroit Lightface Spiderwort#Dillyn Rishika#5.23
+B380493#Twelfth Sprinkle Navy Caw#Chikezie Gezelle#18.48
+B420534#Grace#Joshlynn Lashelle#8.77
+B185892#Grail#Zen Kherington#11.48
+B462593#Bellman Parenthesis#Zebediah Harlin#9.89
+B203847#Century Z#Somer Vann#2.79
+B807372#Sherman Agate Smolder#Hatcher Deliana#18.73
+B821914#Chippendale#Natilyn Averey#8.41
+B168969#Greenberg#Riti Pooja#13.13
+B400719#Tactual Matriculate Gain#Payne Ellen#3.47
+B443637#Pixy Rhythmic Depredation Egypt#Abigail Kehaulani#10.83
+B247630#Cochlea Tangy#Mahalie Leshly#2.32
+B427246#Symbolic Bicycle#Kobi Mizael#12.32
+B804284#Coalition Rosary Diffusible Scuff#Aydrie Yaribel#16.92
+B410863#Bertha#Kostas Marlin#12.7
+B995975#Tier#Laquintin Rylin#4.49
+B665067#Propyl Fascism#Ayanni Awwab#17.9
+B277640#Lingual Scrumptious#Tinashe Danyela#12.07
+B433124#Burly Historian Minstrel Anarchy#Kieran Sharif#17.26
+B947979#Fantasist Lath Obdurate Indivisible#Aram Nalanie#12.39
+B789199#Knowlton#Jude Ehsan#16.75
+B460252#Glorify Suckle Butternut Inhospitable#Pratyush Tanya#18.69
+B447826#Halibut Carboxy Chock Festive#Dariona Labraya#17.75
+B570485#Inexpert Schizophrenia#Jeraldo Edyta#3.15
+B808295#Buzzy#Hughston Beyla#13.08
+B582259#Transmitting Screenplay#Mickaela Kerem#16.86
+B479775#Decline Addressograph Foray Amygdaloid#Breena Keyshun#17.92
+B673593#Hoffman Hieratic Castanet#Aija Shaine#11.15
+B239283#Prohibit Seasonal Cookie#Analiza Marbella#7.68
+B782939#Dual#Khamari Brelan#6.98
+B348667#Cease Leach Stressful#Elodia Kaisy#5.04
+B525120#Marketwise#Tevin Dianney#6.02
+B675594#Quiz Riviera Sombre Role#Aero Freyja#13.01
+B329574#Veer Capacitance Pinto#Marquasia Chaniyah#7.44
+B571030#Crane#Chinenye Angelin#3.11
+B142041#Dystrophy Macaque#Darbie Eunique#13.31
+B937894#Charlie#Naden Yussuf#5.53
+B931162#Tradesmen Greenbriar Ceremony#Linda Kynzi#11.71
+B579856#Northwestern#Clifton Anaija#6.6
+B988025#Cambrian Whoopee Houdini#Breahna Nesean#2.42
+B343058#Almanac Shank#Cannin Courteney#10.17
+B558534#Cuff Islamic#Siwoo Eilene#6.86
+B606860#Hooch Dickey#Delainey Jabriel#17.88
+B347096#Instructor#Adali Reuel#5.06
+B699496#Platte#Caylen Jaxsen#9.81
+B762138#Ankara#Brianah Deziray#18.56
+B708745#Yoder Snuggle#Zeidy Termaine#6.47
+B872843#Berlin#Jace Mady#18.32
+B625713#Taro Starboard Contemplate#Fatema Keslee#1.31
+B614830#Biota Explicit#Eduarda Zethan#10.05
+B619513#Sprain Bobolink Handprint#Tarren Davaeh#2.78
+B533108#Nosebleed#Tee Alizea#12.72
+B574560#Pickaxe Delphic#Adiya Sailor#15.41
+B749266#Cometh Ubiquity Balkan Append#Shemiah Elizabet#6.32
+B315447#Blaze Fortify Liable#Kelcee Khyler#7.0
+B563912#Nemesis Mph Manhole#Luciana Zakia#1.45
+B454819#Eclipse Did Anoint Perigee#Temitope Lavel#19.13
+B786002#Bearberry Filly Wheatstone Confirm#Breuna Elli#16.46
+B681439#Etruscan Hysterectomy Pentateuch Sunflower#Gabbriel Traiden#6.07
+B571225#Loincloth#Tamaj Kingjames#7.01
+B480260#Palestine Whichever#Taraji Dell#9.24
+B186307#Galen Wattle Ponderosa Nelson#Hendrick Kensleigh#13.34
+B114911#Cushman Potbelly Vail#Manaia Kymorah#11.0
+B991102#Who Urethane Chimney#Grason Leonce#10.77
+B928140#Innocuous Poodle Fulton Pare#Angeli Mesiah#12.26
+
+borrowers 
+B123456;S983342;220105;220201
+B234587;S983342;220110;220215
+B591579;S963689;220331;220418
+B668168;S110316;220210;220227
+B646138;S429205;220205;220216
+B668168;S365778;220216;220313
+B872843;S963689;220903;220913
+B329574;S873856;220507;220522
+B591579;S398502;220818;220917
+B427246;S412743;220325;220425
+B972561;S963689;220120;220209
+B558534;S365778;220103;220126
+B251900;S556964;220402;220427
+B808295;S365778;220428;220510
+B619513;S220348;220223;220310
+B533108;S556964;220415;220426
+B633941;S186914;220208;220305
+B789199;S828035;220821;220915
+B393972;S899643;220817;220909
+B782939;S429205;220104;220128
+B789199;S220348;221025;221112
+B571030;S556964;220108;220124
+B789199;S413454;220506;220519
+B574560;S759040;220223;220313
+B762138;S398502;221027;221109
+B555744;S365778;221006;221104
+B649270;S759040;220605;220627
+B331651;S720330;220104;220202
+B242243;S873856;220416;220501
+B379311;S873856;220108;220120
+B995975;S720330;220106;220116
+B931162;S186914;220420;220505
+B200123;S398502;220102;220115
+B570485;S906054;220328;220410
+B447826;S828035;220724;220807
+B686838;S899643;220314;220411
+B315447;S365778;220630;220724
+B705808;S365778;220919;221002
+B400719;S365778;220820;220830
+B427246;S220348;220923;221013
+B600462;S973863;220212;220224
+B379311;S108803;220803;220820
+B293326;S365778;220320;220408
+B931162;S963689;220419;220515
+B614830;S398502;220825;220924
+B856309;S398502;220708;220806
+B226802;S429205;220220;220320
+B856525;S413454;221112;221210
+B144082;S899643;220203;220216
+B947979;S398502;221109;221202
+B242243;S353076;220426;220508
+B988025;S963689;220607;220704
+
+returns
+B123456;S983342;220201;1
+B234587;S983342;220215;1
+
+B591579;S963689;220412;5
+B668168;S365778;220309;5
+B872843;S963689;220906;4
+B329574;S873856;220520;1
+B591579;S398502;220913;1
+B558534;S365778;220120;5
+B808295;S365778;220509;1
+B533108;S556964;220417;4
+B633941;S186914;220303;4
+B393972;S899643;220902;2
+B789199;S220348;221110;4
+B762138;S398502;221102;4
+B555744;S365778;221099;0
+B649270;S759040;220618;3
+B331651;S720330;220195;4
+B242243;S873856;220494;3
+B379311;S873856;220112;2
+B995975;S720330;220111;0
+B931162;S186914;220499;3
+B200123;S398502;220111;3
+B686838;S899643;220402;5
+B705808;S365778;220995;0
+B427246;S220348;221004;0
+B931162;S963689;220506;1
+B226802;S429205;220317;1
+B144082;S899643;220208;5
+B947979;S398502;221200;3
+B242243;S353076;220503;5
+B988025;S963689;220698;4
+
+students
+S983342,Suzanne Foster,2B
+S981123,Eric Xu,2B
+S980127,Hua Li,3A
+S986654,Myriam Salah,2A
+S982234,Ali Rabbany,3B
+S987654,Kevin Kelly,3A
+
+
+
+B931162;S186914;220420;220505
+B200123;S398502;220102;220115
+B570485;S906054;220328;220410
+B447826;S828035;220724;220807
+B686838;S899643;220314;220411
+B315447;S365778;220630;220724
+B705808;S365778;220919;221002
+B400719;S365778;220820;220830
+B427246;S220348;220923;221013
+B600462;S973863;220212;220224
+B379311;S108803;220803;220820
+B293326;S365778;220320;220408
+B931162;S963689;220419;220515
+B614830;S398502;220825;220924
+B856309;S398502;220708;220806
+B226802;S429205;220220;220320
+B856525;S413454;221112;221210
+B144082;S899643;220203;220216
+B947979;S398502;221109;221202
+B242243;S353076;220426;220508
+B988025;S963689;220607;220704

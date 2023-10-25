@@ -1,0 +1,45 @@
++------------------+-------------------------------------+--------------+
+| Student Name     | Book                                | Due Date     |
++------------------+-------------------------------------+--------------+
+| Suzanne Foster   | The mouse and the motorcycle        | Feb 01, 2022 |
+| Suzanne Foster   | Charlotte’s Web                     | Feb 15, 2022 |
+| Tavarion Indira  | Parachute Meson Strangle            | Sep 17, 2022 |
+| Morghan Myami    | Chit Coriolanus Pinnacle            | Mar 13, 2022 |
+| Parley Joelene   | Kansas Polynomial Dogging           | Feb 16, 2022 |
+| Alyxandria Samps | Berlin                              | Sep 13, 2022 |
+| Kazimir Lizeth   | Veer Capacitance Pinto              | May 22, 2022 |
+| Morghan Myami    | Cuff Islamic                        | Jan 26, 2022 |
+| Blessed Winn     | Mountain Hobby                      | Apr 27, 2022 |
+| Morghan Myami    | Buzzy                               | May 10, 2022 |
+| Tarell Tehya     | Sprain Bobolink Handprint           | Mar 10, 2022 |
+| Blessed Winn     | Nosebleed                           | Apr 26, 2022 |
+| Amando Jakaden   | Locomotor Sheepherder Ida           | Mar 05, 2022 |
+| Arlynn Jonnae    | Knowlton                            | May 19, 2022 |
+| Malisa Josaiah   | Bedspread Pornographer Heavyweight  | Sep 09, 2022 |
+| Parley Joelene   | Dual                                | Jan 28, 2022 |
+| Blessed Winn     | Crane                               | Jan 24, 2022 |
+| Jayona Melian    | Pickaxe Delphic                     | Mar 13, 2022 |
+| Tavarion Indira  | Ankara                              | Nov 09, 2022 |
+| Jayona Melian    | Corbett Adroit Lightface Spiderwort | Jun 27, 2022 |
+| Lazaro Dulcemari | Cheesemaking                        | Feb 02, 2022 |
+| Kazimir Lizeth   | Morsel Clang                        | May 01, 2022 |
+| Kazimir Lizeth   | Cybernetic Solon Fibration          | Jan 20, 2022 |
++------------------+-------------------------------------+--------------+
+| Total Books                                            |           23 |
++------------------+-------------------------------------+--------------+
++------------------+----------+
+| Student Name     | Due      |
++------------------+----------+
+| Suzanne Foster   |    $10.5 |
+| Suzanne Foster   |    $15.0 |
+| Tavarion Indira  |    $1.06 |
+| Morghan Myami    |   $16.76 |
+| Alyxandria Samps |   $18.32 |
+| Kazimir Lizeth   |    $7.44 |
+| Morghan Myami    |    $6.86 |
+| Morghan Myami    |   $13.08 |
+| Blessed Winn     |   $12.72 |
+| Amando Jakaden   |   $10.05 |
++------------------+----------+
+| Total Books      | $207.999 |
++------------------+----------+

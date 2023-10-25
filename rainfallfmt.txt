@@ -1,0 +1,30 @@
+[50-60 mm)
+[60-70 mm)
+           Akron           65.5574
+           Alton           69.6722
+[70-80 mm)
+           Algona           77.9526
+[80-90 mm)
+           Britt           80.1116
+           Carroll           84.6582
+           Ankeny           84.7852
+           Audubon           84.8614
+           Cascade           85.0392
+           Brighton           85.3186
+           Allison           85.4456
+           Buckeye           85.4964
+           AmesSE           86.233
+           AmesW           86.5378
+           Bellevue           87.249
+           Atlantic           88.3158
+           Beaconsfield           89.5858
+           Anamosa           89.7382
+[90-100 mm)
+           BellePlaine           90.9574
+           Blockton           92.1512
+           Boone           92.202
+           Bedford           92.329
+           Burlington           93.8276
+           Albia           95.631
+           BurlingtonKBUR           96.3676
+           Bloomfield           96.5708
